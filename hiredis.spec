@@ -4,7 +4,7 @@
 #
 Name     : hiredis
 Version  : 1.0.1
-Release  : 5
+Release  : 6
 URL      : https://files.pythonhosted.org/packages/7f/5c/62e5c6b811b4dcef4125b4a01f76db82c496d79299dd67053b8f9c0732c0/hiredis-1.0.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/7f/5c/62e5c6b811b4dcef4125b4a01f76db82c496d79299dd67053b8f9c0732c0/hiredis-1.0.1.tar.gz
 Summary  : Minimalistic C client library for Redis
