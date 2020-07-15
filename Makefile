@@ -1,5 +1,5 @@
 PKG_NAME := hiredis
-URL = https://files.pythonhosted.org/packages/7f/5c/62e5c6b811b4dcef4125b4a01f76db82c496d79299dd67053b8f9c0732c0/hiredis-1.0.1.tar.gz
+URL = https://files.pythonhosted.org/packages/3d/9f/abc69e73055f73d42ddf9c46b3e01a08b9e74b579b8fc413cbd31112a749/hiredis-1.1.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
