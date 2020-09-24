@@ -4,7 +4,7 @@
 #
 Name     : hiredis
 Version  : 1.1.0
-Release  : 9
+Release  : 10
 URL      : https://files.pythonhosted.org/packages/3d/9f/abc69e73055f73d42ddf9c46b3e01a08b9e74b579b8fc413cbd31112a749/hiredis-1.1.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/3d/9f/abc69e73055f73d42ddf9c46b3e01a08b9e74b579b8fc413cbd31112a749/hiredis-1.1.0.tar.gz
 Summary  : Python wrapper for hiredis
